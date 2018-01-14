@@ -16,15 +16,38 @@
 
 */
 
+/*
+    Border Basics: All CSS borders need the color, width, and style defined!
+    Rather than use all three lines of code,
+    you can just use the border element and define the width, style, and color!
+*/
+
+body {
+    background: url(http://st.motortrend.com/uploads/sites/10/2017/04/2018-Nissan-370Z-Heritage-Edition-cabin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    background-color: rgba(0,0,0, 0.5);
+    background-size:    ;
+    border: 2px solid #efb539;
+    /*
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    */
+}
+
 h1 {
-    color: crimson;
+    color: rgb(178,182,187);
 }
 
 h4 {
-    color: darkturquoise;
+    color: #dd0d27;
 }
 
 li {
-    color: forestgreen;
+    color: #efb539;
 }
 
