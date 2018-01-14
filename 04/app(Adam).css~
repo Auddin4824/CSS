@@ -1,0 +1,30 @@
+﻿/*
+    There are only 147 color in CSS.
+    The basic ones are really used that often. Usually for Debugging purposes.
+    Wesite for view those 147 colors in CSS: http://colours.neilorangepeel.com/
+
+    Here are ways to add any color you want! (Use online color pickers. Max out is white. Min is Back)
+
+    Using Hexdecimal (Base 16!): # plus a string of 6 digits that consist of 0-F.
+    (First 2 digit determine how much red, Second 2 Green, Third 2 Blue)
+
+    Using RGB (Base 10): rgb plus (0, 255, 0) [Red, Green, Blue]
+    (Range from 0-225.
+
+    Using RGBA: Like RGB but has a 4th catagory. Ranges from 0.0-1.0 and Determines Transparency! 
+    (Max/1 is normal and Min/0 is nothing)
+
+*/
+
+h1 {
+    color: crimson;
+}
+
+h4 {
+    color: darkturquoise;
+}
+
+li {
+    color: forestgreen;
+}
+
