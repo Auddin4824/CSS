@@ -1,0 +1,12 @@
+﻿h1 {
+    color: crimson;
+}
+
+h4 {
+    color: darkturquoise;
+}
+
+li {
+    color: forestgreen;
+}
+
