@@ -41,10 +41,12 @@ div {
 
 h1 {
     color: rgb(178,182,187);
+    text-align: center;
 }
 
 h4 {
     color: #dd0d27;
+    text-align: center;
 }
 
 li {
