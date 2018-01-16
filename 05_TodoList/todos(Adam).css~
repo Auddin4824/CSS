@@ -1,0 +1,19 @@
+﻿body {
+    background-color: gray;
+}
+
+/*li {
+    border: 2px solid black; When using the border element, you need to define the width, type, and color!
+}*/
+
+/* ID can only be use once unless it has a different name. */
+#late {
+    text-decoration: black line-through;
+    color: #d10000;
+    font-weight: bold;  
+}
+
+/* Classes are like ID, but can select multiple items */
+.important {
+    background-color: #e9cd00;
+}
